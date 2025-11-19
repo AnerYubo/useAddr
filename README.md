@@ -25,7 +25,9 @@
 基础格式：
 
 ```bash
-useAddr <源IP> <命令> [参数...]
+用法:
+  useAddr <源IP>             # 切换当前 Shell 会话的 IP
+  useAddr <源IP> <命令...>    # 使用指定 IP 执行命令
 ```
 
 ---
